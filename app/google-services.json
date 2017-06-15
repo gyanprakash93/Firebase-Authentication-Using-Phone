@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "25984320883",
+    "firebase_url": "https://fauthenticationwithno.firebaseio.com",
+    "project_id": "fauthenticationwithno",
+    "storage_bucket": "fauthenticationwithno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25984320883:android:30eeb46cb802db5f",
+        "android_client_info": {
+          "package_name": "com.tutorial.kotlin.fauthenticationwithno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25984320883-lq6nl7ogae2a1iqpjgn2hpi4hcne105o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJQfD7zICxCCupn6gEhWIP2ZKycK-7pQ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
